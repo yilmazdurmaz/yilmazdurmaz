@@ -1,3 +1,12 @@
+# Welcome
+
+Hey there,
+
+I have just figured out how to set this index page. So please be patient. It will take some time to fill it in with what you would expect from an index page.
+
+-------------
+The remaning part of this page is the default content of theme file I selected. I will keep them for a while until I figure out how to shape this index page.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yilmazdurmaz/yilmazdurmaz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
